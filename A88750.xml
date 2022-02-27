@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill &amp; testament of Lieutenant Col. John Lilburn: with his speech to some friends in Jersey a little before his death: also certain legacies given to divers persons of note. Together with his elegy and epitaph. First taken in short-hand by Sister Abigail Lemmon, and since published by Ruth Dox.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88750</idno>
+            <idno type="STC">Wing L521</idno>
+            <idno type="STC">Thomason E738_8</idno>
+            <idno type="STC">ESTC R206994</idno>
+            <idno type="EEBO-CITATION">99866071</idno>
+            <idno type="PROQUEST">99866071</idno>
+            <idno type="VID">118331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118331)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E738[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill &amp; testament of Lieutenant Col. John Lilburn: with his speech to some friends in Jersey a little before his death: also certain legacies given to divers persons of note. Together with his elegy and epitaph. First taken in short-hand by Sister Abigail Lemmon, and since published by Ruth Dox.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Lemmon, Abigail.</author>
+                  <author>Dox, Ruth.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Not in fact Lilburne's last testament. Lilburne is quite alive until 1657.</note>
+                  <note>Sister Abigail Lemmon and Ruth Dox are pseudonyms.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118331:1"/>
+            <!-- PDF PAGE 82 -->
+            <pb facs="tcp:118331:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 82 -->
+            <p>THE Laſt Will &amp; Teſtament OF Lieutenant Col. <hi>John Lilburn:</hi> With his Speech to ſome Friends in Jerſey a little before his Death: Alſo certain Le<g ref="char:EOLhyphen"/>gacies given to divers perſons of Note.</p>
+            <p>Together with his ELEGY and EPITAPH.</p>
+            <p>Firſt taken in Short-hand by Siſter <hi>Abigail Lemmon,</hi> and ſince publiſhed by <hi>Ruth Dox.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Year,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="will">
+            <pb facs="tcp:118331:2"/>
+            <!-- PDF PAGE 83 -->
+            <pb n="3" facs="tcp:118331:2"/>
+            <!-- PDF PAGE 83 -->
+            <head>The Laſt Will and Teſtimony, &amp;c.</head>
+            <opener>In the Name of all the Saints, Amen.</opener>
+            <p>I <hi>Iohn Lilburn</hi> of the County of Eſquire, being in perfect memory, and good health of body (only ſomething factiouſly diſpoſed) Do make this my Laſt Will and Teſtament, in manner and form follow<g ref="char:EOLhyphen"/>ing; revoking all former Wills, Deeds, or Claims whatſoever.</p>
+            <p>
+               <hi>Inprimis,</hi> I give and bequeath my ſoul into his hands to whom it is due, hoping however though it hath been turbulent on earth, yet it may live and reign peacefully in Heaven.</p>
+            <p n="2">2. I give and bequeath my Body to the Earth, where<g ref="char:EOLhyphen"/>of it was firſt made; deſiring my Friends that it may be carefully imbalmed, and afterwards decently wrapped in a double ſheet of Lead, and laid in ſome place where no Worm may eat thereof; nor that it be covered with earth; leſt it cauſe either mutiny in the Creatures, or Earthquakes; it yet never being quier in life, it may now reſt in death, and all Creatures receive no prejudice by it.</p>
+            <p n="3">3. J bequeath my Brains and Scull, to my old Friend
+<pb n="4" facs="tcp:118331:3"/>
+               <!-- PDF PAGE 84 -->Mr. <hi>William Pryn,</hi> and the reſt of his honored Tribe and men at Law, and though we (like <hi>Samſons</hi> Foxes) have been tyed together, and drawn ſeveral ways, yet now that we bury all differences in the ſilent grave of forgetfulneſs: provided he manage my ſaid Head-piece to the beſt advantage in pleading of <hi>Magna Charta,</hi> without taking any unlawfull Bribes, or Angelicall Fees, upon pain of forfeiture of both his Ears: Alſo I bequeath unto my ſaid old Friend Mr. <hi>Pryn,</hi> one Statute Book at large, one <hi>Littleton,</hi> one <hi>Poulten,</hi> Dr. <hi>Baſtwicks</hi> Let any, Mr. <hi>Burtons</hi> Appeal to <hi>Caeſar, Martin Mar<g ref="char:EOLhyphen"/>prelates</hi> works in Quarto; <hi>News from I ſwich,</hi> Nativity of Presbyterie, by <hi>Nick Culpepper.</hi> A Looking glaſs for proud Prelates, by <hi>W. P.</hi> together with my own works in Folio, by what names or titles ſoever diſtinguiſhed: ſo that they make not uſe of any Treatiſe more then my own: it being a common uſe with me (to gain the affe<g ref="char:EOLhyphen"/>ction of the People) to father other mens Works, which error or failing I now diſclaim, wiſhing all people to ſhun the vain applauſe of men, or people, that like a broken Reed runs into that hand that thinks he truſts to be ſupported by it, of which too late, I finde ſad expe<g ref="char:EOLhyphen"/>rience.</p>
+            <p n="4">4. I bequeath my lips to ſiſter <hi>P.</hi> to imploy them in holy ſalutations, not after the fleſh, but Spirit, and ſo to be communicated to all the Saints of the Femininine: no Maſculine, after that ſalutation or impreſsion, to preſume to deface the ſame in two hours ſpace, upon pain of be<g ref="char:EOLhyphen"/>ing excommunicated out of the Congregation of the Saints.</p>
+            <p n="5">5. I give my <hi>Eyes</hi> to <hi>Argus</hi> to be mended, that they may never more ſquint after the applauſe of people,
+<pb n="5" facs="tcp:118331:3"/>
+               <!-- PDF PAGE 84 -->nor the pomp, riches and glory of a tranſitory and fa<g ref="char:EOLhyphen"/>ding world.</p>
+            <p n="6">6. I give and bequeath my burch of <hi>Tallyes</hi> to the next Brewers Clerk, that can learn the Art of keeping within compaſs, and ſo be free from breaking.</p>
+            <p n="7">7. I give my <hi>Needle</hi> and <hi>Thimble</hi> to the next Cloth-drawer, that is reſolved to follow his Trade and Cal<g ref="char:EOLhyphen"/>ling, without intermedling with other mens occaſions, or State affairs.</p>
+            <p n="8">8. I give and bequeath my means and eſtate unto my beloved wife, to have and hold the ſame to ſhe and her Heirs for ever.</p>
+            <p n="9">9. For my State policy, I leave it to the diſcretion of <hi>C. S.</hi> that it may be by him cancelled, and turned into true obedience, and ſubmiſsion to higher powers.</p>
+            <p n="10">10. For my Trade of Soap-boyling, I leave to all thoſe variable Mechanicks, that being weary of one Trade re<g ref="char:EOLhyphen"/>ſolve to try another, though it be never ſo much to their loſs or prejudice.</p>
+            <p n="11">11. I give and bequeath my Gratitude to all thoſe that have ſupplyed my neceſsity during my Baniſhment, or ſince my impriſonment.</p>
+            <p>Laſtly, I give my good Counſel to all men, to be care<g ref="char:EOLhyphen"/>full, and reſt content in their Callings, without med<g ref="char:EOLhyphen"/>ling or intermedling with that which belongs not to them, or is too high for them, or beyond their proper ſpheare or element, to ſhun popularity, or vain applauſe of men, to hate covetouſneſs &amp; fraud, and to envy none that are in authority, but to live peaceably and quietly with all men, to fear God above all things, and next him
+<pb n="6" facs="tcp:118331:4"/>
+               <!-- PDF PAGE 85 -->his Miniſters, and the Peoples Magiſtrates, acknow<g ref="char:EOLhyphen"/>ledging the neceſsity of a diverſity and preheminence in degrees to be amongſt men, for the neceſſary direction and preſervation of them in conformity of living: even Nature her ſelf in Bees, Birds and Beaſts, teaching the ſame: Wherefore I deſire all my Friends to learn that ſhort, but hard leſſon, 
+<q>Know thy Self,</q>
+Which is the way to know thy Duty to Magiſtrates, and the excellence of Iuſtice, and how needfull it is: which that you may ſeriouſly conſider, is the humble deſires of your Cordial departing</p>
+            <closer>
+               <signed>Friend, <hi>John Lilburn.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="7" facs="tcp:118331:4"/>
+            <!-- PDF PAGE 85 -->
+            <head>The <hi>Speech</hi> of Lieutenant Colonel <hi>Iohn Lilburn</hi> before his Departure.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WE are all debters to Nature, &amp; know not how ſoon we are to Cancel that Obligation we owe: ſometimes our own ſelves haſtning on our own ends: ſome<g ref="char:EOLhyphen"/>times our ends coming by one accident, ſome<g ref="char:EOLhyphen"/>times by another: however our time is full of danger, ſhort and uncertain; and therefore it behoves us all to prepare for our deſolution: You know as tha Tree falls, ſo it lyeth, yet be<g ref="char:EOLhyphen"/>fore the Fall, it was ſubject to the wind, or other means or accident, that was the cauſe thereof: I truſt I have a good Conſcience towards God and man; I fear not death, nor the means to it, not miſtruſting, but I ſhall have more valour in patient ſuffering what ever is inflicted on me for my ſins, then the dread of ſuch puniſhment can be unto me. And ſeriouſly I am as ready and willing to leave the World, as you can be to fancy me dead before my time: For preparing our ſelves thereto, and in expectation thereof, de<g ref="char:EOLhyphen"/>ſiring the ſame from your ſelves.</p>
+            <closer>
+               <signed>I reſt, yours to Command, <hi>Iohn Lilburn.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb n="8" facs="tcp:118331:5"/>
+            <!-- PDF PAGE 86 -->
+            <head>An Elegy on Lieutenant Col. <hi>Iohn Lilburn,</hi> ſuppoſed to be <hi>Mortus Est.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>PHaeton</hi> and <hi>Icarus, Typheus</hi> breath</l>
+               <l>Shall blow Fames Trumpet at <hi>Iohn Lilburns</hi> death,</l>
+               <l>The Roſe-cheek'd Sun, maskt in a pitchy cloud</l>
+               <l>Shall be cloſe Mourner, wait upon his ſhroud,</l>
+               <l>Shril whiſtling winds, ſhall daſh impetuous waves</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>p to the Skies, whoſe fall ſhall drown'd the Graves</l>
+               <l>For <hi>Lilburns</hi> loſs; and teach the dead to weep,</l>
+               <l>And Ghoſts to walk, even in deaths gentle ſleep.</l>
+               <l>Some ſaid, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>John</hi> with <hi>Lilburn</hi> was at odds,</l>
+               <l>But death can make him peaceful, as the gods.</l>
+               <l>Sure hee's not dead? it cannot be, if Law</l>
+               <l>Could but redeem him from Deaths powerful jaw.</l>
+               <l>Kill'd by Report, tis true; Dead with a lie,</l>
+               <l>Moſt happy <hi>John,</hi> that living ſo could die;</l>
+               <l>All Faction ends in Death, Ambition, Pride,</l>
+               <l>Death humbles all; had theſe with <hi>Lilburn</hi> died</l>
+               <l>He had been famous, and dy'd full well,</l>
+               <l>And ſcap'd his Anagram, <hi>I burn in Hell.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>His Epitaph, being in bed aſleep.</head>
+            <lg>
+               <l>Here lies a man; no Woman can deny it</l>
+               <l>Which dy'd in peace, but never liv'd in quiet.</l>
+               <l>Here's a man ſo skil'd in Law and Reaſon,</l>
+               <l>He could convert the ſence o'th Law to Treaſon;</l>
+               <l>The <hi>People</hi> pray, if o're his Grave ye walk</l>
+               <l>For to tread ſoftly, if he wake heel talk.</l>
+            </lg>
+            <closer>
+               <signed>By Mr.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
